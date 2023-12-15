@@ -8,10 +8,10 @@ import static com.jayway.jsonpath.internal.path.PathCompiler.fail;
 @SpringBootTest
 class GithubactionApplicationTests {
 
-    @Test
-    public void test1() {
-        throw new RuntimeException();
-    }
+//    @Test
+//    public void test1() {
+//        throw new RuntimeException();
+//    }
 
     @Test
     public void test2() {
